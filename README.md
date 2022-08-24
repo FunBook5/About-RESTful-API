@@ -1,6 +1,9 @@
 # About-RESTful-API
 Learning about API(Application Programming Interface) with REST architecture.
 
+New Things Learned -- Robo3T, Postman API, Server Chaining routes using app.route and REST Arch.
+
+
 ## API
 An API is an interface through which one program or web site talks to another.
 They are used to share data and services, and they come in many different
